@@ -100,7 +100,7 @@ Smooth animation of cursor and scrolling:
 ```json
 "editor.cursorBlinking": "expand",
 "editor.cursorSmoothCaretAnimation": true,
-"editor.smoothScrolling": true,
+"editor.smoothScrolling": true
 ```
 
 The font with cool ligatures: [Fira Code](https://github.com/tonsky/FiraCode):
@@ -108,4 +108,10 @@ The font with cool ligatures: [Fira Code](https://github.com/tonsky/FiraCode):
 ```json
 "editor.fontFamily": "Fira Code",
 "editor.fontLigatures": true
+```
+
+Another feature that helps you have the current scope sticked at the top of the editor:
+
+```json
+"editor.stickyScroll.enabled": true
 ```
