@@ -14,7 +14,7 @@
 | [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)                          | Highlight different types of comments with different colors                |
 | [Browserslist](https://marketplace.visualstudio.com/items?itemName=webben.browserslist)                                    | Syntax highlighting for those lists                                        |
 | [Bundle size](https://marketplace.visualstudio.com/items?itemName=ambar.bundle-size)                                       | Shows the size of the bundled file which you import                        |
-| [Bundle size](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)                            | Colorizes colors in styles                                                 |
+| [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)                            | Colorizes colors in styles                                                 |
 | [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)                                   | Helps you to navigate through styles faster                                |
 | [Dependencies Analytics](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics)                     | Can analyze your dependencies and look for vulnerabilities in them         |
 | [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)                                  | Helps you to work with Docker containers in the editor                     |
